@@ -1,0 +1,14 @@
+D:\lAB 1\bin\Debug\net7.0-windows\WindowsFormsApp.exe
+D:\lAB 1\bin\Debug\net7.0-windows\WindowsFormsApp.deps.json
+D:\lAB 1\bin\Debug\net7.0-windows\WindowsFormsApp.runtimeconfig.json
+D:\lAB 1\bin\Debug\net7.0-windows\WindowsFormsApp.dll
+D:\lAB 1\bin\Debug\net7.0-windows\WindowsFormsApp.pdb
+D:\lAB 1\obj\Debug\net7.0-windows\WindowsFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\lAB 1\obj\Debug\net7.0-windows\WindowsFormsApp.AssemblyInfoInputs.cache
+D:\lAB 1\obj\Debug\net7.0-windows\WindowsFormsApp.AssemblyInfo.cs
+D:\lAB 1\obj\Debug\net7.0-windows\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\lAB 1\obj\Debug\net7.0-windows\WindowsFormsApp.dll
+D:\lAB 1\obj\Debug\net7.0-windows\refint\WindowsFormsApp.dll
+D:\lAB 1\obj\Debug\net7.0-windows\WindowsFormsApp.pdb
+D:\lAB 1\obj\Debug\net7.0-windows\WindowsFormsApp.genruntimeconfig.cache
+D:\lAB 1\obj\Debug\net7.0-windows\ref\WindowsFormsApp.dll
